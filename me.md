@@ -25,7 +25,7 @@
 
 - 手机：17681899581 (工作时间可能会漏接，微信交流优先)
 - Email：shouhui.sun@gmail.com
-- QQ/微信号：183385208
+- QQ/微信号：17681899581
 
 ---
 
@@ -41,36 +41,36 @@
 
 项目上线在2020.9，当时正是Defi之夏，我负责前端项目搭建，前端对接智能合约，测试脚本等。从0-1，首个版本上线挖矿玩法，后面陆续更新了机枪池、借贷、锁仓质押、NFT、Dao等功能。 前端和智能合约都进行了审计，项目 0 bug，巅峰时期锁仓超$10亿。
 
-技术：vue,web3.js,ipfs
+技术：vue全家桶,web3.js,ipfs
 
 
 ### DEFI项目 https://www.longswap.io
 已下线。该项目基于Pancakeswap进行2次开发，部署在bsc链上，实现交易，流动性，挖矿等。
 
-技术：react,ethers.js
+技术：react全家桶,ethers.js
 
 
-### DEFI项目 https://www.nftyeah.com
+### DEFI项目 https://www.nftyeah.org
 实验项目。爬取openSea NFT,寄售，提醒等。
 
-技术：vue
+技术：vue全家桶
 
 ### Web项目 https://www.longbit.com
 
 项目已下线，该项目是数字货币交易所，主要功能包括现货交易，合约交易，质押锁仓，c2c等。根据国家相关政策关闭运营。
 
-技术：vue
+技术：vue全家桶,tradingview
 
 ### DEFI项目 套利机器人
 合约地址：https://bscscan.com/address/0x3326081cfc915f1013ed645f0afd29b65b11b2d5
-实验项目。发布一个智能合约，对接2个AMM类型的swap，定时任务检索利润，并发起套利。该项目经过几十次迭代，从最初的js版本10ms左右，优化到3μs左右发起一笔交易，集成到节点里面提前签好名，网格缓存。最后因为科学家太多太卷了，项目停止。
+实验项目。发布一个智能合约，对接2个AMM类型的swap，定时任务检索利润，并发起套利。该项目经过几十次迭代，从最初的js版本10ms左右，优化到3μs左右发起一笔交易，集成到节点里面提前签好名，网格缓存,分析其他节点同步过来的Transaction，过滤大额交易，并计算利润，从收到到发起平均只需要3μs左右。最后因为科学家太多太卷了，节点项目方跟科学家相互勾结，项目停止。
 
-技术：nodejs,go,ethereum
+技术：nodejs,go,ethereum,solidity
 
 ### DEFI项目 NFT抢购
 实验项目。利用flashbots特性，抢购freemint的NFT。内部使用中，效果还不错。
 
-技术：react,ethers.js
+技术：react全家桶,ethers.js
 
 ### 杂七杂八的项目
 区块链小游戏，算法稳定币....等等一些热点项目
@@ -83,12 +83,12 @@
 ### 印尼汽配电商平台 https://www.tokoonderdil.id/
 该项目属于外包性质，出差印尼驻场工作。 氛围B2B和B2C两个版本，包含买家端、卖家端、小二端、oms管理后台等，包含商品、交易、支付、售后、报价、客户服务、物流等模块。
 
-技术：webpack、vue、nuxt
+技术：webpack、vue全家桶、nuxt
 
 ### 陕西苹果交易平台 
 微信小程序，实现苹果交易流程
 
-技术：vue
+技术：vue全家桶
 
 ---
 
